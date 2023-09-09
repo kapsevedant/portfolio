@@ -64,7 +64,9 @@
     }
     .submit-btn{
         padding:10px 16px 10px 16px;
-        
-    
-    }
+        }
+
+    .new-class{
+        background-color: #191924;
+    }    
 }
