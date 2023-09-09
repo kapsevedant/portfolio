@@ -49,7 +49,6 @@
         width:100%;
         padding:30px;
         margin-bottom: 60px;
-        
     }
     .input{
         padding:5px;
@@ -60,13 +59,8 @@
        
         font-size: 30px;
         
-        
     }
     .submit-btn{
         padding:10px 16px 10px 16px;
         }
-
-    .new-class{
-        background-color: #191924;
-    }    
 }
