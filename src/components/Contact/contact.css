@@ -45,29 +45,5 @@
 }
 
 
-@media only screen and (max-width:650px){
-    .c-form{
-        width:100%;
-        padding:30px;
-        margin-bottom: 60px;
-        
-    }
-    .input{
-        padding:5px;
-        font-size: 16px;
-       
-    }
-    .contact-heading{
-       
-        font-size: 30px;
-        
-        
-    }
-    .submit-btn{
-        padding:10px 16px 10px 16px;
-        
-    
-    }
-}
 
 
